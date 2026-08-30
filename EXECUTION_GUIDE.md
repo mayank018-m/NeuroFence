@@ -181,3 +181,15 @@ prompts before deploying the model.
 
 If none of these match your error, paste the **full terminal traceback**
 (not just the last line) and we can debug the specific failure.
+
+
+## NeuroFence Verification and Testing
+
+Before running NeuroFence, verify that the required Python environment and
+dependencies are correctly installed.
+
+Run the environment verification utility from the project root:
+
+
+```bash
+python scripts/verify_install.py
