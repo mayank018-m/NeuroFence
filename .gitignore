@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.vscode/
+*.log
+reports/
+models/clean-model/
+models/backdoored-model/
