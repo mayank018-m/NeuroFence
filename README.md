@@ -190,13 +190,3 @@ All model security experiments and backdoor testing should be performed only in 
 
 
 
-
-📈 Project Outcomes:
-
-NeuroFence demonstrates a practical approach to AI model security and model forensics by combining automated model inspection with controlled behavioral analysis.
-The project establishes a foundation for identifying potential model-integrity and behavioral security risks before AI models are deployed into production or trusted environments.
-
-
-👥 Contributors:
-Team lead : Mayank Malakar
-Members   :  Etor Wisdom Ayomikun , Aswathy Ronald , Pethani Jensy Milanbhai
