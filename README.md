@@ -1,13 +1,26 @@
-NeuroFence — LLM Weight Poisoning & Backdoor Scanner:
+# 🛡️ NeuroFence — LLM Weight Poisoning & Backdoor Scanner
 
-A Python-based AI Security and Model Forensics platform designed to analyze Machine Learning and Large Language Models (LLMs) for suspicious weight modifications, potential weight poisoning, and hidden backdoor behavior before deployment.
+A Python-based **AI Security and Model Forensics platform** designed to analyze Machine Learning and Large Language Models (LLMs) for suspicious weight modifications, potential weight poisoning, and hidden backdoor behavior before deployment.
 
+---
 
-🚀 Project Overview:
+## 🚀 Project Overview
 
-NeuroFence is a defensive AI security platform developed to assess the integrity and behavior of machine-learning models. It provides a controlled environment where models can be validated, executed in a sandbox, inspected at the weight and parameter level, and tested for suspicious behavioral patterns.
+NeuroFence is a defensive AI security platform developed to assess the **integrity and behavior of machine-learning models**.
 
-The platform combines model validation, sandbox analysis, weight inspection, behavioral testing, backdoor assessment, and forensic analysis into a structured security workflow. This helps security researchers and AI developers identify potential model-integrity risks before models are introduced into trusted or production environments.
+It provides a controlled environment where models can be:
+
+- Validated
+- Executed in a sandbox
+- Inspected at the weight and parameter level
+- Tested for suspicious behavioral patterns
+
+The platform combines **model validation, sandbox analysis, weight inspection, behavioral testing, backdoor assessment, and forensic analysis** into a structured security workflow.
+
+This helps security researchers and AI developers identify potential **model-integrity risks** before models are introduced into trusted or production environments.
+
+---
+
 
 
 ## ⚙️ Security Analysis Workflow
