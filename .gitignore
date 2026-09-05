@@ -1,11 +1,49 @@
-.venv/
+# Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.pytest_cache/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
 .vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyTest
+.pytest_cache/
+.coverage
+
+# Generated reports
+reports/*.pdf
+reports/*.html
+
+# Logs
 *.log
-reports/
-models/clean-model/
-models/backdoored-model/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Model cache / downloaded artifacts
+*.bin
+*.ckpt
+*.safetensors
+
+# Local configuration
+.env
+.env.*
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
