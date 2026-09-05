@@ -114,8 +114,8 @@ All security experiments are designed for **controlled research, educational, an
 
 **Team Members:**
 - Etor Wisdom Ayomikun
-- Sahdev Singh
-- Prateek Inani
+- Aswathy Ronald
+- Pethani Jensy Milanbhai
 
 ---
 
