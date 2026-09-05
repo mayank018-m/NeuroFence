@@ -52,27 +52,6 @@ Git & GitHub - Version control and project management
 
 
 
-📁 Project Structure:
-
-NeuroFence/
-│
-├── detector/              # Model detection and analysis modules
-├── sandbox/               # Controlled model execution
-├── fuzzer/                # Behavioral security testing
-├── report/                # Security analysis and reporting
-├── gui/                   # PyQt5 desktop interface
-├── tests/                 # Testing utilities
-│
-├── main.py                # Main scanner entry point
-├── create_test_model.py   # Controlled test-model generation
-├── verify_install.py      # Environment verification
-│
-├── requirements.txt       # Project dependencies
-├── EXECUTION_GUIDE.md     # Complete execution documentation
-├── MAIN_REPORT.pdf        # Detailed project report
-└── README.md              # Project documentation
-
-
 
 🧪 Testing & Validation:
 
